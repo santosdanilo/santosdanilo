@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santosdanilo)](https://github.com/anuraghazra/github-readme-stats)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosdanilo&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=santosdanilo&hide=prs,issues,contribs&count_private=true&show_icons=true)  |
+| ------------------- | ------------------- |
 
 <!--
 **santosdanilo/santosdanilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
